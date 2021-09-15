@@ -14,5 +14,5 @@ robotArm.operate()
 robotArm.grab()
 robotArm.moveRight()
 robotArm.moveLeft()
-
+rscan()
 robotArm.drop()
